@@ -1,2 +1,2 @@
-# Computer-Graph-Projects
-CG课大作业
+# Computer-Graphics-Projects
+This project is about my course: Computer-Graphics-Projects 2022Fall.
